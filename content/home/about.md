@@ -10,31 +10,24 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Dopamine",
+    "Cognitive Control",
+    "Addiction"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD, Integrative Neuroscience"
+  institution = "Stony Brook University"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA, Psychology, Biology"
+  institution = "University of Rochester"
+  year = 2011
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Pete is a postdoctoral fellow in the Laboratory of Neuroimaging at NIH (PI: Nora D. Volkow) https://www.niaaa.nih.gov/research/niaaa-intramural-program/niaaa-laboratories/laboratory-neuroimaging. Pete is interested in how dopamine influences cognitive control in health and neuropsychiatric disease. He is currently working on combining fMRI, PET, pharmacological challenges, and genetic markers to understand neurocognitive processes in drug addiction. 
