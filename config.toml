@@ -232,7 +232,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "https://github.com/pmanza"
+    link = "https://github.com/pmanza?tab=repositories"
 
 
 # Navigation Links
